@@ -1,1 +1,7 @@
+
 Cambio a rama principal
+
+Cambio en la rama archivo_conflictos
+
+Cambio resuelto
+
